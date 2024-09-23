@@ -1,0 +1,7 @@
+model_weight.pth
+model_weight.ckpt
+resnet34.pth
+/.vscode/*
+/__pycache__/*
+/test/*
+*.pyc

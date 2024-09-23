@@ -1,0 +1,12 @@
+.idea/
+/venv
+/stage_2/prepare_data/test_dataset
+/.vscode
+*.pyc
+.DS_Store
+model_weight.pth
+model_weight.ckpt
+/.vscode/*
+/__pycache__/*
+/test/*
+*.pyc
